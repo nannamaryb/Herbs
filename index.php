@@ -21,16 +21,16 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="index.html">HOME</a>
+            <a class="nav-link active" aria-current="page" href="index.php">HOME</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="about.html">ABOUT</a>
+            <a class="nav-link" href="about.php">ABOUT</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="register.html">REGISTER</a>
+            <a class="nav-link" href="register.php">REGISTER</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="herbs.html">HERBS</a>
+            <a class="nav-link" href="herbs.php">HERBS</a>
           </li>
         </ul>
       </div>
